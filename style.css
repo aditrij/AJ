@@ -1,0 +1,46 @@
+body
+{
+background-size:cover;
+}
+
+.heading
+{
+font-size:23px;
+font-family:'Algerian';
+width:100%;
+margin:0px;
+text-align:center;
+}
+
+#start
+{
+font-size:10px;
+font-family:'Georgia';
+text-align:center;
+}
+
+#number_of_objects,#status
+{
+font-size:10px;
+text-align:center;
+}
+
+.footer
+{
+width:100%;
+line-height:20px;
+font-size:10px;
+color: black;
+background-color:white;
+position:fixed;
+text-align:left;
+box-shadow:5px 5px 5px gray;
+bottom:0;
+font-family:'Ariel Black';
+}
+
+#inp
+{
+width:50%;
+text-align:center;
+}
